@@ -17,18 +17,6 @@ A responsive personal portfolio website for Disha Rajput, Full Stack MERN Develo
 ## Deploy
 
 ### Vercel
-1. Upload this project to a GitHub repository.
-2. Open Vercel and import the repository.
-3. Keep the project as a static site; no build command is required.
-4. Deploy.
-
-### Netlify
-1. Push the files to GitHub.
-2. Add the repository in Netlify.
-3. Use the project root as the publish directory.
-4. Deploy.
-
-You can also deploy the folder directly using Netlify Drop.
 
 ## Personal links
 
